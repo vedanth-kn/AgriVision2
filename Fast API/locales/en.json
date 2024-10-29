@@ -1,0 +1,58 @@
+{
+    "Pepper bell Bacterial spot": {
+        "description": "This disease is caused by bacteria...",
+        "solution": "Use copper-based fungicides and avoid overhead watering."
+    },
+    "Pepper bell healthy": {
+        "description": "Healthy bell pepper plants exhibit vibrant green leaves...",
+        "solution": "No action needed; maintain good growing conditions."
+    },
+    "Potato Early blight": {
+        "description": "Early blight is caused by the fungus Alternaria solani. It thrives in warm, moist conditions and can be spread by wind, rain, and contaminated tools.",
+        "solution": "Apply fungicides and practice crop rotation to reduce disease impact."
+    },
+    "Potato Late blight": {
+        "description": "Caused by the pathogen Phytophthora infestans, late blight is particularly notorious for causing extensive damage in wet conditions.",
+        "solution": "Use resistant varieties and apply fungicides regularly."
+    },
+    "Potato Healthy": {
+        "description": "",
+        "solution": "No action needed; maintain good growing conditions."
+    },
+    "Tomato Bacterial spot": {
+        "description": "The bacterial spot in tomatoes is caused by the bacteria Xanthomonas spp. It’s typically spread through water, such as from rainfall, irrigation, or contaminated soil, as well as via infected seeds and transplants.",
+        "solution": ""
+    },
+    "Tomato Early blight": {
+        "description": "Early blight is a common fungal disease caused by Alternaria solani, which thrives in warm, moist environments. It’s primarily spread by wind, rain, and contaminated tools and soil.",
+        "solution": ""
+    },
+    "Tomato Late blight": {
+        "description": "Late blight is caused by Phytophthora infestans, an aggressive pathogen that can affect both tomatoes and potatoes. It spreads rapidly in cool, wet conditions and is particularly dangerous as it can destroy entire crops.",
+        "solution": ""
+    },
+    "Tomato Leaf Mold": {
+        "description": "This disease is caused by the fungus Passalora fulva, which thrives in warm, humid environments. It can rapidly spread in greenhouses and high-humidity areas.",
+        "solution": ""
+    },
+    "Tomato Septoria leaf spot": {
+        "description": "This fungal disease, caused by Septoria lycopersici, is common in areas with wet, humid conditions. The fungus overwinters in plant debris and is spread by water splashing onto leaves.",
+        "solution": ""
+},
+    "Tomato Spider mites Two-spotted spider mite": {
+        "description": "Spider mites, specifically the Tetranychus urticae species, are tiny pests that thrive in hot, dry conditions and reproduce rapidly. They feed on the undersides of leaves, sucking plant juices and causing damage.",
+        "solution": ""
+},
+    "Tomato Target Spot": {
+        "description": "This disease is caused by Corynespora cassiicola, a fungus that affects tomatoes and other plants.",
+        "solution": ""
+    },
+    "Tomato Tomato YellowLeaf Curl Virus": {
+        "description": "TYLCV is a viral disease primarily spread by whiteflies. The virus affects tomato plant growth and reduces yield.",
+        "solution": ""
+    },
+    "Tomato healthy": {
+        "description": "Healthy tomato plants exhibit strong, vibrant leaves and produce high yields without showing signs of disease or pest damage.",
+        "solution": "No action needed; maintain good growing conditions."
+    }
+}
